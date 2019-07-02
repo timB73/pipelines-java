@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/TimBartrum0287/TimBartrum/_apis/build/status/timB73.pipelines-java?branchName=master)](https://dev.azure.com/TimBartrum0287/TimBartrum/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
